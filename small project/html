@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chicago car show.html</title>
+</head>
+<body bgcolor="#FFEBCD">
+    <h1>click on picture</h1>
+
+
+        <!--انا عامل روابط علي كل صوره -->
+        <!--</br>enter-->
+        <!--yousef_eslam_mahmoud___622149-->
+
+     <table dir="ltr" height="300px" width="1050px">
+        <tr><td><div>Toyota corolla <br>1600cc <br>120 HP</div></td><td><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7_%D9%83%D9%88%D8%B1%D9%88%D9%84%D8%A7"><img src="download.jpeg"width="300px"height="200px"/></a></td><td> verna hyndai<br> 1600cc <br>  Made in Korea </td><td> <a href="https://en.wikipedia.org/?title=Hyundai_Verna&redirect=no"><img src="download (4).jpeg" width="300px"height="200px">  </a></td></tr>
+
+
+
+    <tr><td><div>subaru xv<br> 1600cc<br> 114 hp  150 Nm<br> all wheel drive </div></td><td><a href="http://subaruegypt.com/cars/subaru-xv/"><img src="download (2).jpeg"width="300px"height="200px"></a></td><td>hyndai accent<br> 1600cc<br>Made in Korea </td><td><a href="https://en.wikipedia.org/wiki/Hyundai_Accent"><img src="download (7).jpeg" width="300px"height="200px"></a></td> </tr>
+
+
+
+    <tr><td><div> Bmw e60 <br> v10 <br>500 hp 520 Nm<br> beautiful German Car </div></td><td><a href="https://en.wikipedia.org/wiki/BMW_5_Series_(E60)"><img src="BMW-5-Series-E60-Facelift-2007_1.jpg"width="300px"height="200px"></a></td><td>Ford Ram<br>5.9 L 245HP<br> Amirican Car</td><td><a href="https://en.wikipedia.org/wiki/Ram_pickup"><img src="download (9).jpeg"width="300px"height="200px"></a></td></tr>
+
+
+
+
+   <tr><td><div>Bmw 318i 2019<br> v6<br>450HP<br>German Car</div></td><td><a href="https://en.wikipedia.org/wiki/BMW_3_Series"><img src="images.jpeg"width="300px"height="200px"></a></td><td>Ford Range <br>2.0 L (121.7 cu in) DOHC 16V<br> Amirican </td><td><a href="https://en.wikipedia.org/wiki/Ford_Ranger"><img src="download (8).jpeg"width="300px"height="200px"></a></td></tr>
+
+
+
+
+</table>
+
+
+
+
+</body>
+</html>
